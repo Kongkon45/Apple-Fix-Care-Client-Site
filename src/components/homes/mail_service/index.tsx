@@ -3,7 +3,7 @@ import React from 'react'
 const Mail_service = () => {
   return (
     <div>
-        <h2 className="text-4xl text-center font-bold text-black mt-10 mb-6">See how Samsung Care makes repairs work for you</h2>
+        <h2 className="text-4xl text-center font-bold text-black mt-10 mb-6">See how Apple Fix-Care makes repairs work for you</h2>
         <div className="lg:flex my-10">
       <div className="lg:w-3/5 w-full lg:mx-6 lg:p-0 p-6">
         <img src="https://i.ibb.co/Yb6L5ZT/mail-in-service-2x.webp" alt="Quality" />

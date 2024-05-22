@@ -18,7 +18,7 @@ const Navbar = () => {
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link className="text-xl font-bold text-gray-900" href="/">
-                Samsung Care
+              Apple Fix-Care
               </Link>
             </div>
           </div>

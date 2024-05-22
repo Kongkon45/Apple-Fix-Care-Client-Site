@@ -10,7 +10,7 @@ const Contact_Banner = () => {
         We&apos;re here for you
         </h5>
         <h2 className="text-4xl font-bold text-black mb-6">
-        Contact Samsung Support
+        Contact Apple Fix-Care Support
         </h2>
         <p className="text-xs my-4 text-justify">
         Contact us online through chat and get support from an expert on your computer, mobile device or tablet. Support is also available on your mobile device through the Samsung Members App.

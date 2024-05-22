@@ -6,7 +6,7 @@ const Award = () => {
       <div className="lg:w-2/3 w-full">
         <h3 className="text-3xl font-bold">ACSI® 2023 Award Winner</h3>
         <h5 className="text-sm mt-2 mb-4">
-          Samsung has been ranked #1 in the USA for Customer Satisfaction among
+          Apple Fix-Care has been ranked #1 in the USA for Customer Satisfaction among
           5G devices in 2023.[2]
         </h5>
         <button className="text-xs py-2 px-4 rounded-xl bg-white text-black font-bold hover:bg-[#555555] hover:text-white hover:scale-105 transform transition-transform duration-300">

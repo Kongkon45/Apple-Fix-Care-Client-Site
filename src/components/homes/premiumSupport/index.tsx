@@ -5,7 +5,7 @@ const PremiumSupport = () => {
     <div className="lg:flex py-10">
       <div className="lg:w-2/5 w-full lg:mx-12 lg:p-0 p-6">
         <h2 className="text-4xl text-black font-bold my-10">
-          Premium Support with Samsung Care+
+          Premium Support with Apple Fix-Care
         </h2>
         <h5 className="text-md font-bold text-black">
           Powerful Protection for your Galaxy life covers Drops, Spills, and

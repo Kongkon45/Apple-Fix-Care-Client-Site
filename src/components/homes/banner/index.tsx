@@ -7,7 +7,7 @@ const Banner = () => {
       style={{ backgroundImage: `url(https://i.ibb.co/k5YRZmb/mobile-care-banner-pc.webp)` }}
     >
       <h5 className="text-xl font-bold mb-2">Mobile</h5>
-      <h2 className="lg:text-5xl text-4xl font-bold">Samsung Care</h2>
+      <h2 className="lg:text-5xl text-4xl font-bold">Apple Fix-Care</h2>
     </div>
   );
 };
