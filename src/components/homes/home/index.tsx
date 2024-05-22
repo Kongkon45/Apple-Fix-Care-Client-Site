@@ -13,10 +13,12 @@ import PartneringLocations from '../partneringLocations';
 import SelfRepair from '../selfRepair';
 import Greener_Future from '../greener_Future';
 import Contact_Banner from '../contact_Banner';
+import Banner from '../banner';
 
 const HomePage = () => {
     return (
         <div>
+            <Banner/>
             <About/>
             <Award/>
             <Convenience/>
