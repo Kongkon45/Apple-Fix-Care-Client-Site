@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { FaBars, FaTimes } from 'react-icons/fa';
+import { AiOutlineShoppingCart } from "react-icons/ai";
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -38,8 +39,8 @@ const Navbar = () => {
             </Link>
           </div>
           {/* Right Side Button */}
-          <div className="hidden md:flex items-center">
-            <button className="px-4 py-2 bg-blue-600 text-white rounded-md">Button</button>
+          <div className="flex items-center text-2xl font-bold">
+            <AiOutlineShoppingCart/>
           </div>
           {/* Mobile Menu Button */}
           <div className="flex items-center md:hidden">

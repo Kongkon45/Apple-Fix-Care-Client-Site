@@ -1,0 +1,66 @@
+[
+    {
+        "id" : 1,
+        "title" : "iPhone 14 Cable",
+        "image" : "https://i.ibb.co/qsNNLQV/Sumash-Tech-1-cable.webp",
+        "price" : 200,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 2,
+        "title" : "Cable",
+        "image" : "https://i.ibb.co/qkZYFXH/Apple-Lightning-to-3-5mm-Headphone-Jack-Adapter.jpg",
+        "price" : 300,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 3,
+        "title" : "iPhone 14 Cable",
+        "image" : "https://i.ibb.co/qsNNLQV/Sumash-Tech-1-cable.webp",
+        "price" : 400,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 4,
+        "title" : "Cable",
+        "image" : "https://i.ibb.co/qkZYFXH/Apple-Lightning-to-3-5mm-Headphone-Jack-Adapter.jpg",
+        "price" : 500,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 5,
+        "title" : "iPhone 14 Cable",
+        "image" : "https://i.ibb.co/qsNNLQV/Sumash-Tech-1-cable.webp",
+        "price" : 250,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 6,
+        "title" : "Cable",
+        "image" : "https://i.ibb.co/qkZYFXH/Apple-Lightning-to-3-5mm-Headphone-Jack-Adapter.jpg",
+        "price" : 350,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 7,
+        "title" : "iPhone 14 Cable",
+        "image" : "https://i.ibb.co/qsNNLQV/Sumash-Tech-1-cable.webp",
+        "price" : 350,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    },
+    {
+        "id" : 8,
+        "title" : "Cable",
+        "image" : "https://i.ibb.co/qkZYFXH/Apple-Lightning-to-3-5mm-Headphone-Jack-Adapter.jpg",
+        "price" : 350,
+        "desc" : "Special silicon coating, shatterproof function, explosion-proof black frame film, 9H Hardness, Anti-water, Anti-shock, Anti-glare, Anti-scratch, and Bubble Free. Strong screen protector – even blade proof protects your screen from drops. shock, dust. bubbles and scratches."
+
+    }
+]

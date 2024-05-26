@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "image" : "https://i.ibb.co/Ldfg5zz/google.png"
+    },
+    {
+        "id" : 2,
+        "image" : "https://i.ibb.co/f9hPzHs/hp.png"
+    },
+    {
+        "id" : 3,
+        "image" : "https://i.ibb.co/rZwnYWN/lenovo.png"
+    },
+    {
+        "id" : 4,
+        "image" : "https://i.ibb.co/T8qZ3Sj/microsoft.png"
+    },
+    {
+        "id" : 5,
+        "image" : "https://i.ibb.co/ccp0vGg/motorola.png"
+    },
+    {
+        "id" : 6,
+        "image" : "https://i.ibb.co/qmJJDMj/patagonia.png"
+    },
+    {
+        "id" : 7,
+        "image" : "https://i.ibb.co/Nr1sDCH/polaroid-transparent.png"
+    },
+    {
+        "id" : 8,
+        "image" : "https://i.ibb.co/v4b0t7H/valve.png"
+    }
+]

@@ -14,21 +14,29 @@ import SelfRepair from '../selfRepair';
 import Greener_Future from '../greener_Future';
 import Contact_Banner from '../contact_Banner';
 import Banner from '../banner';
+import NeverTakeBroken from '../neverTakeBroken';
+import Discount from '../discount';
+import OurAllies from '../OurAllies';
+import TopSelling from '../topSelling';
 
 const HomePage = () => {
     return (
         <div>
             <Banner/>
+            <NeverTakeBroken/>
             <About/>
             <Award/>
             <Convenience/>
+            <Discount/>
             <Quality/>
+            <TopSelling/>
             <Competitive/>
             <SamsungAccount/>
             <PremiumSupport/>
             <Service/>
             <ServicesCar/>
             <Mail_service/>
+            <OurAllies/>
             <PartneringLocations/>
             <SelfRepair/>
             <Greener_Future/>

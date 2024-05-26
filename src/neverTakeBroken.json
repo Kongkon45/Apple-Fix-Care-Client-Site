@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "image" : "https://i.ibb.co/NYwbz9M/guides1.jpg",
+        "title" : "Step-by-Step Guides",
+        "desc" : "Learn how to fix anything with simple, easy-to-follow instructions created by real fixers.",
+        "btnText" : "Find a Guide",
+        "btnLink" : "/"
+    },
+    {
+        "id" : 2,
+        "image" : "https://i.ibb.co/cX6DLWn/guides2.jpg",
+        "title" : "Quality Parts and Tools",
+        "desc" : "Precision tools and thousands of parts to get the job done, backed by our Lifetime Guarantee.",
+        "btnText" : "Shop our Store",
+        "btnLink" : "/"
+    },
+    {
+        "id" : 3,
+        "image" : "https://i.ibb.co/b1h6hzb/guides3.jpg",
+        "title" : "A Community of Fixers",
+        "desc" : "No one knows how to fix everything, but everyone knows how to fix something.",
+        "btnText" : "Fix the World",
+        "btnLink" : "/"
+    }
+]
